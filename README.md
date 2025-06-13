@@ -69,6 +69,8 @@ Code
    
 Explanation: 
 
+https://maps.google.com/
+
 1.HTML:
 The container div uses display: flex to arrange the image and information side-by-side.
 The profile-image tag displays your image.
