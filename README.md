@@ -69,7 +69,7 @@ Code
    
 Explanation: 
 
-
+https://www.w3schools.com/html/html_links.asp
 
 1.HTML:
 The container div uses display: flex to arrange the image and information side-by-side.
