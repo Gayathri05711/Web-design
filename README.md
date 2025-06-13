@@ -26,6 +26,7 @@ A visually appealing and user-friendly website can convey a sense of professiona
 
 Here's a breakdown of the process:
 1. HTML Structure (index.html):
+
 Code
 <!DOCTYPE html>
 <html>
