@@ -42,17 +42,28 @@ Code
 </div>
 </body>
 </html>
-2. CSS Styling (style.css):
+
+ 2. CSS Styling (style.css):
+
 Code
-.container {
-  display: flex;
-  align-items: center;
-  text-align: center; /* Center text */
-  width: 80%;
-  margin: 50px auto; /* Center the container */
-  border: 1px solid #ccc;
-  padding: 20px;
-  border-radius: 
+
+<style>
+  .angry {
+    color: red;
+  }
+  .intense {
+    font-style: uppercase;
+    font-size: 44px;
+    border: 3px solid red;
+    background-color: lightyellow;
+  }
+</style>
+<h1 class="angry intense">
+  
+</h1>
+<h1 class="angry">
+  HTML and CSS Explanation
+</h1>
 
 Explanation: 
 
